@@ -43,3 +43,9 @@ address{
     color: #000000;
     text-align: right;
 }
+
+a{
+    text-align: center;
+    font-size: 150%;
+    color: #ff0000;
+}
